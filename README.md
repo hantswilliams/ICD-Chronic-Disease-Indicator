@@ -1,9 +1,9 @@
 <h1> <strong> ICD Chronic Disease Indicator </strong> </h1>
 <br>
 The chronic indicator is defined as either 0 (not chronic condition) or 1 (chronic condition).
-This is provided for all relevant ICD10 codes.  
-<br>
-Disease / Body location: <br>
+This is provided for all relevant ICD10 codes. <br><br>
+
+<strong> Disease / Body location: </strong> <br>
 1= Infectious and parasitic disease<br>
 2= Neoplasms<br>
 3= Endocrine, nutritional, and metabolic diseases and immunity disorders<br>
@@ -24,5 +24,5 @@ Disease / Body location: <br>
 18= Factors influencing health status and contact with health services<br>
 
 <br>
-(original file source) Downloading Information for the Chronic Conditions Indicator Tool
+<strong> (original file source) </strong> Downloading Information for the Chronic Conditions Indicator Tool <br>
 https://www.hcup-us.ahrq.gov/toolssoftware/chronic_icd10/chronic_icd10.jsp
