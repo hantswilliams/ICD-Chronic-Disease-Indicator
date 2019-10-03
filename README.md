@@ -3,7 +3,7 @@
 The chronic indicator is defined as either 0 (not chronic condition) or 1 (chronic condition).
 This is provided for all relevant ICD10 codes. <br><br>
 
-<strong> Note </strong> - To see the final dataset, go to the 'OUTPUT' folder, there is a .csv file as well as a .pkl (python) file. <br>
+<strong> Note </strong> - To see the final dataset, go to the `OUTPUT` folder, there is a .csv file as well as a .pkl (python) file. <br>
 
 <strong> Disease / Body location: </strong> <br>
 1= Infectious and parasitic disease<br>
